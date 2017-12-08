@@ -67,7 +67,7 @@ $(document).ready(function() {
     $(target).text(favorites += 1);
 
   })
-//Bootstrap tooltip
+
   $('[data-toggle="tooltip"]').tooltip();
 
   $('.tweet').show('.action-favorite');
